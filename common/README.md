@@ -1,16 +1,13 @@
 # Git&Github Convention
 
----
 
 ## Issue
 
----
 - Every single task needs to be registered as an issue.
 
 
 ## Branch
 
----
 - Create a branch with issue number.
 - If one branch resolves multiple issues, then use comma without space. 
 - Examples
@@ -20,7 +17,6 @@
 
 ## Commit
 
----
 - Use only English.
 - Start with capital present tense verb.
 - Don't use colon after the first word.
@@ -31,8 +27,7 @@
   - *Test get_dashboard function*
 
 ## Pull Request
-
---- 
+ 
 
 - Title
   - Create a title with branch name.
