@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+    "beardedbear.beardedtheme",
+    "ms-azuretools.vscode-docker",
+    "eamodio.gitlens",
+    "ritwickdey.liveserver",
+    "pkief.material-icon-theme",
+    "esbenp.prettier-vscode",
+    "humao.rest-client"
+  ]
+}
