@@ -6,6 +6,7 @@
     "ritwickdey.liveserver",
     "pkief.material-icon-theme",
     "esbenp.prettier-vscode",
-    "humao.rest-client"
+    "humao.rest-client",
+    "bierner.github-markdown-preview"
   ]
 }
