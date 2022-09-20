@@ -30,6 +30,7 @@
  
 
 - Title
+  - Add [WIP] if the task is not ready to be reviewed.
   - Create a title with branch name.
   - Examples
     - *33*
