@@ -7,6 +7,8 @@
     "pkief.material-icon-theme",
     "esbenp.prettier-vscode",
     "humao.rest-client",
-    "bierner.github-markdown-preview"
+    "bierner.github-markdown-preview",
+    "streetsidesoftware.code-spell-checker",
+    "Prisma.prisma"
   ]
 }
