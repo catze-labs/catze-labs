@@ -27,10 +27,12 @@
 
 - Title
   - Add **[WIP]** as a prefix if the task is not ready to be reviewed.
-  - Create a title with branch name.
-  - Examples
-    - _33_
-    - _125,149_
+- Description
+  - Mention the issue that you resolve like **resolve #ISSUE-NUMBER** 
+    - ex: resolve #97
+    - ref: [linking-a-pull-request-to-an-issue](https://docs.github.com/en/issues/tracking-your-work-with-issues/linking-a-pull-request-to-an-issue)
+- Link issue
+  - Link issue using Development
 
 # Articles
 
