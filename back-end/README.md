@@ -11,8 +11,27 @@ e.g.
 
 
 
-## AWS Rds Naming
-{github_repo}-{environment}
+## AWS RDS Naming
+catze-{environment}-db
+
+e.g.
+
+- catze-cbt-db
+- catze-dev-db
+- catze-prod-db
+- catze-qa-db
+- catze-stage-db
+
+### Database naming
+{service_name}
+
+e.g.
+
+- yooldo
+- cybergalz
+- backoffice
+
+
 
 e.g.
 - cybergalz-dev
