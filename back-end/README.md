@@ -4,7 +4,7 @@
 
 ### Folder
 
-Folder naming is very difficult to fix. but we use feature domain single word.
+Folder naming is very difficult to fix. but we use feature domain single word.  
 If we can't use single word, We use camel case word.
 
 For example
